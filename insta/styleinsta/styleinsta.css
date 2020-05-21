@@ -1,0 +1,84 @@
+.account{
+	display: block;
+	margin-left: 500px;
+	margin-right: 480px;
+	background: grey;
+}
+.logo img{
+	margin-left: 20px;
+	margin-top: 0px;
+	height:250px;
+	width: 300px;
+}
+.log-in {
+	margin-left: 20px;
+}
+.log-in input[type="text"]{
+	font-size: 13px;
+	height: 13px;
+	margin-bottom: 8px;
+	border-radius: 8px;
+	padding:8px;
+	width: 300px;
+}
+.log-in input[type="password"]{
+	height: 13px;
+	border-radius: 8px;
+	padding: 8px;
+	width: 300px;
+	}
+.log-in input[type="submit"]{
+	background: lightblue;
+	font-size: 18px;
+	font-weight: bold;
+	border:1px;
+	border-radius: 2px;
+	color:#fff;
+	width: 330px;
+	height: 40px;
+}
+.log-in img{
+	height:20px;
+	width:20;
+	padding-left: 80px;
+	margin-right:5px;
+}
+.log-in a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+.forget a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 10px;
+	padding-left: 100px;
+}
+.login-button{
+	margin-left: 420px;
+}
+.log-in p{
+	padding-left: 150px;
+}
+.footer{
+	margin-left: 20px;
+}
+.footer label{
+	padding:60px;
+	color: white;
+}
+.footer a{
+	font-size: 20px;
+	text-decoration: none;
+	color: lightblue;
+	font-weight: bold;
+}
+.footer{
+	display: block;
+	height: 60px;
+	margin-left: 500px;
+	margin-right: 480px;
+	margin-top: 15px;
+	background: grey;
+}
